@@ -4,7 +4,7 @@
 
 
 🏋 [Workout Chart](https://github.com/Tashdid-Turjo/Life-Logs/blob/main/Workout-Chart/Workout-Chart.md)
-🎬 [Movies I've Watched](https://github.com/Tashdid-Turjo/Movies-Watched)
+🎬 [Movies I've Watched](https://github.com/Tashdid-Turjo/Life-Logs/blob/main/Movies-Watched/Movies-Watched.md)
 🍳 [Cooking Logs](https://github.com/Tashdid-Turjo/Cooking-Logs)
 🎮 [Games I Played](https://github.com/Tashdid-Turjo/Games-Played)
 
