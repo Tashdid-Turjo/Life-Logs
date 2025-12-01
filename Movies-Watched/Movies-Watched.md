@@ -9,3 +9,7 @@
 ---
 
 [Bangla Language Mvi, Series](https://github.com/Tashdid-Turjo/Life-Logs/blob/main/Movies-Watched/2-Bangla.md)
+
+---
+
+[Hindi Language Mvi, Series](https://github.com/Tashdid-Turjo/Life-Logs/blob/main/Movies-Watched/3-Hindi.md)
