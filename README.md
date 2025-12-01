@@ -3,7 +3,7 @@
 </h1>
 
 
-🏋 [Workout Chart](https://github.com/Tashdid-Turjo/Workout-Chart)
+🏋 [Workout Chart]([https://github.com/Tashdid-Turjo/Workout-Chart](https://github.com/Tashdid-Turjo/Life-Logs/blob/main/Workout-Chart/Workout-Chart.md))
 🎬 [Movies I've Watched](https://github.com/Tashdid-Turjo/Movies-Watched)
 🍳 [Cooking Logs](https://github.com/Tashdid-Turjo/Cooking-Logs)
 🎮 [Games I Played](https://github.com/Tashdid-Turjo/Games-Played)
