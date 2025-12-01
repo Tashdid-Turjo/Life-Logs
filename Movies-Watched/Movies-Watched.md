@@ -13,3 +13,7 @@
 ---
 
 [Hindi Language Mvi, Series](https://github.com/Tashdid-Turjo/Life-Logs/blob/main/Movies-Watched/3-Hindi.md)
+
+---
+
+[Chinese, Japanese, S.Korean, Indonesian, Malaysian, Singaporean Mvi, Series](https://github.com/Tashdid-Turjo/Life-Logs/blob/main/Movies-Watched/4-Tur_Ira_Pak.md)
