@@ -3,10 +3,10 @@
 </h1>
 
 
-🏋 [Workout Chart](https://github.com/Hellion-Hunter/Workout-Chart)
-🎬 [Movies I've Watched](https://github.com/Hellion-Hunter/Movies-Watched)
-🍳 [Cooking Logs](https://github.com/Hellion-Hunter/Cooking-Logs)
-🎮 [Games I Played](https://github.com/Hellion-Hunter/Games-Played)
+🏋 [Workout Chart](https://github.com/Tashdid-Turjo/Workout-Chart)
+🎬 [Movies I've Watched](https://github.com/Tashdid-Turjo/Movies-Watched)
+🍳 [Cooking Logs](https://github.com/Tashdid-Turjo/Cooking-Logs)
+🎮 [Games I Played](https://github.com/Tashdid-Turjo/Games-Played)
 
 
 <p align="center">
