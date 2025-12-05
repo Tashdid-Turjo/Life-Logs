@@ -277,7 +277,7 @@
     ➤ The Nun (7/10)
     ➤ The Orphanage (6/10)
     ➤ The Possession of Hannah Grace(8/10)
-    ➤ The Ring (9/10)
+    ➤ The Ring (All) (9/10)
     ➤ The Unholy (5/10)
     ➤ The Wailing (4/10)
     ➤ Veronica (8/10)
