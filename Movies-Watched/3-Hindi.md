@@ -3,7 +3,7 @@
 ### ACTION:
     ➤ Bahubali (All) (9/10)
     ➤ Bhuj: The Pride of India (4/10)
-    ➤ Gunjan Saxena: The Kargil Girl (2)
+    ➤ Gunjan Saxena: The Kargil Girl (2/10)
     ➤ Jawan (8.5/10)
     ➤ KGF (All) (9.5/10)
     ➤ Major (5/10)
@@ -30,7 +30,7 @@
     ➤ 
     
 ### ROMANTIC:
-    ➤ (Allmost All) Shahrukh Khan mvi's (Avg- 8)
+    ➤ (Allmost All) Shahrukh Khan mvi's (Avg- 8/10)
     ➤ Ashiqui 2 (7/10)
     ➤ Bareilly Ki Barfi (7/10)
     ➤ Barfi (9/10)
@@ -128,7 +128,7 @@
     ➤ Hungama (8/10)
     ➤ 
     
-### SERIES:
+### SERIES (F = Full, S1 = Season 1):
     ➤ Aranyak (F) (9/10)
     ➤ Asur (F) (9/10)
     ➤ Delhi Crime (F) (8/10)
