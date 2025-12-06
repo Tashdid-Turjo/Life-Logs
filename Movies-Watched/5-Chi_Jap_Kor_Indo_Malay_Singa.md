@@ -14,7 +14,7 @@
     ➤ Munafiq (8/10)
     ➤ Pemandi Jenazah (7/10)
     ➤ Qodrat (8/10)
-    ➤ Satan's Slaves (8/10)
+    ➤ Satan's Slaves (1, 2) (7/10), (2/10)
     ➤ Sijjin (2023) (7/10) [copy of siccin]
     ➤ Siksa Neraka (7/10) [about afterlife]
     ➤ The Grudge (7/10)
