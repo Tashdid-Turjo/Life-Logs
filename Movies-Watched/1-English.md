@@ -15,7 +15,7 @@
     ➤ Almost Friends (Feminist) (0/10)
     ➤ A Walk to Remember (8/10)
     ➤ Before Sunrise (All) (5/10)
-    ➤ Eternal Sunshine of The... (7/10)
+    ➤ Eternal Sunshine of the Spotless Mind (7/10)
     ➤ Five Feet Apart (7/10)
     ➤ Flipped (7/10)
     ➤ Liberal Arts (5/10)
