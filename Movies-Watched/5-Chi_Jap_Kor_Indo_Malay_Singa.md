@@ -16,7 +16,7 @@
     ➤ Qodrat (8/10)
     ➤ Satan's Slaves (8/10)
     ➤ Sijjin (2023) (7/10) [copy of siccin]
-    ➤ Siksa Neraka (7/	10) [about afterlife]
+    ➤ Siksa Neraka (7/10) [about afterlife]
     ➤ The Grudge (7/10)
     ➤ Umma (4/10)
     ➤ Waktu Maghrib (8/10)
@@ -55,7 +55,7 @@
     ➤ Summer Time Rendering (9/10)
     ➤ 
     
-### SERIES:
+### SERIES (F = Full, S1 = Season 1):
     ➤ 2521 (S1) (3/10)
     ➤ All of Us Are Dead (F) (7/10)
     ➤ Crash Landing On You (F) (9/10)
