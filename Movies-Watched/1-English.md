@@ -224,7 +224,7 @@
     ➤ Identity (3/10)
     ➤ Inception (8/10)
     ➤ Interstellar (8/10)
-    ➤ IT (8/10)
+    ➤ IT (1, 2) (8/10)
     ➤ Knives Out (9/10)
     ➤ L.A. Confidential (8/10)
     ➤ Malignant (9/10)
