@@ -80,6 +80,7 @@
     ➤ Dune (All) (7/10)
     ➤ Exodus God & Kings (Musa A.) (8)
     ➤ Gladiator (8/10)
+    ➤ Heads of State (8/10)
     ➤ King Arthur (8/10)
     ➤ Kingdom of Heaven (8/10)
     ➤ Mortal Combat (8/10)
