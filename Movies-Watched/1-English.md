@@ -372,6 +372,7 @@
     ➤ Hannibal (S1) (7/10)
     ➤ Hawkeye (S1) (5/10)
     ➤ House of The Dragon (F) (10/10)
+    ➤ IT: Welcome to Derry (F) (8/10)
     ➤ Loki (S1) (6/10)
     ➤ Lucifer (S1) (7/10)
     ➤ Man vs Baby (F) (8/10)
