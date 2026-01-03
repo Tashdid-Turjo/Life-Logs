@@ -1,6 +1,7 @@
 # this code doesn't count for now. will work for this in future.
 # # update_md_counters.py
 
+
 # # Path to your Markdown file
 # md_file = "movies.md"
 
