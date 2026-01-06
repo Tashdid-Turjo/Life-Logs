@@ -67,6 +67,7 @@
     ➤ Flower of Evil (F) (7/10)
     ➤ Marco Polo (S1) (6/10)
     ➤ Mouse (F) (9/10)
+    ➤ Somehow 18 (F) (6/10)
     ➤ Squid Game (F) (9/10)
     ➤ Strangers From Hell (F) (1/10)
     ➤ Twinkling Watermelon (F) (4/10)
