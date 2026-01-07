@@ -56,7 +56,7 @@
 
 ### DARK ROMANTIC:
     ➤ Freddy (7/10)
-    ➤ 
+    ➤ Haq (Feminist +) (0/10)
     
 ### THRILLER(রোমাঞ্চকর/গোয়েন্দা-কাহিনী)/SUSPENSE THRILLER/PSYCHOLOGICAL THRILLER/ROMANTIC THRILLER/MYSTERIOUS(রহস্য)/ANTHOLOGY(সংকলন)/CRIME/EROTIC CRIME:
     ➤ Andhadhun (8/10)
