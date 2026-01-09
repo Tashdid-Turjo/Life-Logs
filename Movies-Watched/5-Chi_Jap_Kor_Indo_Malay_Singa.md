@@ -60,7 +60,7 @@
     
 ### SERIES (F = Full, S1 = Season 1):
     ➤ 2521 (S1) (3/10)
-    ➤ Alchemy of Souls (F) (8/10)
+    ➤ Alchemy of Souls (F) (9/10)
     ➤ All of Us Are Dead (F) (7/10)
     ➤ Crash Landing On You (F) (9/10)
     ➤ Descendants of the Sun (F) (7/10)
