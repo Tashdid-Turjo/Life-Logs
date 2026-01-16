@@ -33,7 +33,6 @@
     ➤ White Girl (2/10)
     ➤ 50 Shades of Grey (All) (6/10)
     ➤ 500 Days of Summer (6/10)
-    ➤ 
 
 ### DARK ROMANTIC:
     ➤ Deep Water (8/10)
