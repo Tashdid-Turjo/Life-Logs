@@ -62,6 +62,7 @@
     ➤ 2521 (S1) (3/10)
     ➤ Alchemy of Souls (F) (9/10)
     ➤ All of Us Are Dead (F) (7/10)
+    ➤ Burn the House Down (F) (8/10)
     ➤ Crash Landing On You (F) (9/10)
     ➤ Descendants of the Sun (F) (7/10)
     ➤ Flower of Evil (F) (7/10)
