@@ -67,6 +67,7 @@
     ➤ Crash Landing On You (F) (9/10)
     ➤ Descendants of the Sun (F) (7/10)
     ➤ Flower of Evil (F) (7/10)
+    ➤ King the Land (F) (8/10)
     ➤ Marco Polo (S1) (6/10)
     ➤ Mouse (F) (9/10)
     ➤ Somehow 18 (F) (6/10)
