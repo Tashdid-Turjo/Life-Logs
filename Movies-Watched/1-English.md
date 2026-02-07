@@ -360,7 +360,7 @@
     ➤ 13 Reasons Why (S1) (6/10)
     ➤ Alexander: The Making of a God (F) (8/10)
     ➤ Band of Brothers (S1) (4/10)
-    ➤ Berlin (S1) (7/10)
+    ➤ Berlin (S1-   (7/10)
     ➤ Black Mirror (S1) (5/10)
     ➤ Breaking Bad (F) (8/10)
     ➤ Chernobyl (F) (8/10)
@@ -371,13 +371,14 @@
     ➤ Game of Thrones (F) (10/10) ✪
     ➤ Hannibal (S1) (7/10)
     ➤ Hawkeye (S1) (5/10)
-    ➤ House of The Dragon (F) (9/10)
-    ➤ IT: Welcome to Derry (F) (8/10)
+    ➤ House of The Dragon (S2-   (9/10)
+    ➤ IT: Welcome to Derry (S1-   (8/10)
     ➤ Loki (S1) (6/10)
     ➤ Lucifer (S1) (7/10)
     ➤ Man vs Baby (F) (8/10)
     ➤ Man vs Bee (F) (8/10)
     ➤ Mindhunter (S1) (5/10)
+    ➤ Monarch: Legacy of Monsters (S1-  (7/10)
     ➤ Money Heist (F) (9/10)
     ➤ Moon Knight (S1) (5/10)
     ➤ Narcos (F) (8/10)
@@ -386,11 +387,11 @@
     ➤ Peaky Blinders (F) (9/10)
     ➤ Prison Break (F) (9/10)
     ➤ Severance (S1) (2/10)
-    ➤ Sex Education (F) (8/10)
+    ➤ Sex Education (S4-   (8/10)
     ➤ Shameless (S3) (7/10)
     ➤ Sherlock (F) (9/10)
     ➤ Stranger Things (F) (10/10) ✪
-    ➤ The Boys (F) (9/10)
+    ➤ The Boys (S4-   (9/10)
     ➤ The Continental: From the World of John Wick (F) (7/10)
     ➤ The End of The Fucking World (F) (6/10)
     ➤ The Falcon & the Winter Soldier (S1) (6/10)
@@ -405,11 +406,11 @@
     ➤ The Vampire Diaries (F) (8.5/10)
     ➤ Vikings (F) (9/10)
     ➤ Vikings: Valhalla (F) (8/10)
-    ➤ Wednesday (F) (8/10)
+    ➤ Wednesday (S2-   (8/10)
     ➤ 
 
 ### ANIME/CARTOON:
     ➤ Batman: The Animated Series (8/10)
     ➤ Spiderman: Across the spiderverse (All) (9/10)
-    ➤ The Spectacular Spiderman (9/10)
+    ➤ The Spectacular Spiderman (F) (9/10)
     ➤ 
