@@ -139,6 +139,6 @@
     ➤ Mumbai Diaries (F) (4/10)
     ➤ Sacred Games (F) (6/10)
     ➤ Scam 1992 (F) (8/10)
-    ➤ The Ba***ds of Bollywood (F) (8/10)
+    ➤ The Ba***ds of Bollywood (S1-   (8/10)
     ➤ The Railway Men (F) (8/10)
     ➤
