@@ -63,8 +63,9 @@
     ➤ A Killer Paradox (F) (7/10)
     ➤ Alchemy of Souls (F) (9.5/10)
     ➤ All of Us Are Dead (F) (7/10)
-    ➤ Bon Appétit, Your Majesty (8.5/10)
+    ➤ Bon Appétit, Your Majesty (F) (8.5/10)
     ➤ Burn the House Down (F) (8/10)
+    ➤ Can This Love Be Translated? (F) (7.5/10)
     ➤ Crash Landing On You (F) (9.5/10)
     ➤ Descendants of the Sun (F) (7/10)
     ➤ Flower of Evil (F) (7/10)
@@ -76,5 +77,5 @@
     ➤ Squid Game (F) (9/10)
     ➤ Strangers From Hell (F) (1/10)
     ➤ Twinkling Watermelon (F) (4/10)
-    ➤ When Life Gives You Tangerines (8/10)
+    ➤ When Life Gives You Tangerines (F) (8/10)
     ➤ 
