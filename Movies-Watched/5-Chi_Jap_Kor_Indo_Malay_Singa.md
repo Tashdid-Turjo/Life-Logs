@@ -78,4 +78,4 @@
     ➤ Strangers From Hell (F) (1/10)
     ➤ Twinkling Watermelon (F) (4/10)
     ➤ When Life Gives You Tangerines (F) (8/10)
-    ➤ 
+    
