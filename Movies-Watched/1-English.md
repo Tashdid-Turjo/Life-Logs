@@ -248,6 +248,7 @@
     ➤ The Covenant (7/10)
     ➤ The Departed (8/10)
     ➤ The Girl with the Dragon Tattoo(8/10)
+    ➤ The Housemaid (8/10)
     ➤ The Machinist (8/10)
     ➤ The Post (4/10)
     ➤ The Prestige (6/10)
