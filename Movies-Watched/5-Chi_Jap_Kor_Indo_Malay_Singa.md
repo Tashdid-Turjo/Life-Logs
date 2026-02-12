@@ -62,6 +62,7 @@
     ➤ 2521 (S1) (3/10)
     ➤ A Killer Paradox (F) (7/10)
     ➤ Alchemy of Souls (F) (9.5/10)
+    ➤ Alice in Borderland (S3-  (7.5/10)
     ➤ All of Us Are Dead (F) (7/10)
     ➤ Bon Appétit, Your Majesty (F) (8.5/10)
     ➤ Burn the House Down (F) (8/10)
