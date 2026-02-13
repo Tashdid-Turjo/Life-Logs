@@ -21,7 +21,7 @@
     ➤ The Grudge (7/10)
     ➤ Umma (4/10)
     ➤ Waktu Maghrib (1, 2) (8/10), (4/10)
-    ➤ 
+    
     
 ### THRILLER(রোমাঞ্চকর/গোয়েন্দা-কাহিনী)/SUSPENSE THRILLER/PSYCHOLOGICAL/SURVIVAL THRILLER/MYSTERIOUS(রহস্য)/ANTHOLOGY(সংকলন)/CRIME/EROTIC CRIME:
     ➤ I Saw the Devil (4/10)
