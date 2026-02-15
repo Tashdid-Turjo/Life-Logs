@@ -28,7 +28,7 @@
     ➤ I Saw the Devil (4/10)
     ➤ Memories of Murder (7.5/10)
     ➤ The Call (7/10)
-    ➤ 
+
     
 ### ZOMBIE:
     ➤ The Elixir / Abadi Nan Jaya (7/10)
