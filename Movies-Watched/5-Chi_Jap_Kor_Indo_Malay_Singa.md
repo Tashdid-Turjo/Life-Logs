@@ -70,6 +70,7 @@
     ➤ Crash Landing On You (F) (9.5/10)
     ➤ Descendants of the Sun (F) (7/10)
     ➤ Flower of Evil (F) (7/10)
+    ➤ It's Okay to Not Be Okay (F) (8.5/10)
     ➤ King the Land (F) (8.5/10)
     ➤ Kingdom (F) (4/10)
     ➤ Marco Polo (S1) (6/10)
