@@ -359,6 +359,7 @@
     
 ### SERIES(F = Full, S1 = Season 1):
     ➤ 13 Reasons Why (S1) (6/10)
+    ➤ A Knight of the Seven Kingdoms (S1-  (7.5/10)
     ➤ Alexander: The Making of a God (F) (8/10)
     ➤ Band of Brothers (S1) (4/10)
     ➤ Berlin (S1-   (7/10)
