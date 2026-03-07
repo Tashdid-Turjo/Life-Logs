@@ -77,6 +77,7 @@
     ➤ Kingdom (F) (4/10)
     ➤ Marco Polo (S1) (6/10)
     ➤ Mouse (F) (9/10)
+    ➤ Queen of Tears (F) (8/10)
     ➤ Resident Playbook (F) (5/10)
     ➤ Somehow 18 (F) (6/10)
     ➤ Squid Game (F) (9/10)
