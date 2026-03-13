@@ -74,6 +74,7 @@
     ➤ It's Okay to Not Be Okay (F) (8.5/10)
     ➤ King the Land (F) (8.5/10)
     ➤ Kingdom (F) (4/10)
+    ➤ Lovely Runner (F) (6/10)
     ➤ Marco Polo (S1) (6/10)
     ➤ Mouse (F) (9/10)
     ➤ Queen of Tears (F) (8/10)
