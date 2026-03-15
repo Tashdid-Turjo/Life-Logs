@@ -357,7 +357,7 @@
     ➤ Harry Potter 20th Anniversary: Return to Hogwarts (7/10)
     ➤ 
     
-### SERIES(F = Full, S1 = Season 1):
+### SERIES(F = Full, S1 = Only Season 1 Watched, S1- = Only Season 1 Released & Watched):
     ➤ 13 Reasons Why (S1) (6/10)
     ➤ A Knight of the Seven Kingdoms (S1-  (7.5/10)
     ➤ Alexander: The Making of a God (F) (8/10)
