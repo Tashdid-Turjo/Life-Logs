@@ -362,7 +362,7 @@
     ➤ 13 Reasons Why (S1) (6/10)
     ➤ A Knight of the Seven Kingdoms (S1-  (7.5/10)
     ➤ Alexander: The Making of a God (F) (8/10)
-    ➤ Band of Brothers (S1) (4/10)
+    ➤ Band of Brothers (S1Ep1) (4/10)
     ➤ Berlin (S1-   (7/10)
     ➤ Black Mirror (S1) (5/10)
     ➤ Breaking Bad (F) (8/10)
