@@ -368,7 +368,7 @@
     ➤ Chernobyl (F) (8/10)
     ➤ Daredevil (F) (6/10)
     ➤ Dark (F) (8/10)
-    ➤ Elite (F) (7/10)
+    ➤ Elite (S4) (7/10)
     ➤ Friends (S1) (6/10)
     ➤ Game of Thrones (F) (10/10) ✪
     ➤ Hannibal (S1) (7/10)
