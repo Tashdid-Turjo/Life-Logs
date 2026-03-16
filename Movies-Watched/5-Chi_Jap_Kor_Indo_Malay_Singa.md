@@ -54,7 +54,7 @@
     ➤ 
 
 ### ANIME(MOVIE/SERIES):
-    ➤ Death Note (9/10)
+    ➤ Death Note (S18) (9/10)
     ➤ Grave of the Fireflies (7/10)
     ➤ Summer Time Rendering (9/10)
     ➤ 
