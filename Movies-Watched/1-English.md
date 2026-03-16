@@ -376,7 +376,7 @@
     ➤ House of The Dragon (S2-   (9/10)
     ➤ IT: Welcome to Derry (S1-   (8/10)
     ➤ Loki (S1) (6/10)
-    ➤ Lucifer (S1) (7/10)
+    ➤ Lucifer (S2Ep3) (7/10)
     ➤ Man vs Baby (F) (8/10)
     ➤ Man vs Bee (F) (8/10)
     ➤ Mindhunter (S1) (5/10)
