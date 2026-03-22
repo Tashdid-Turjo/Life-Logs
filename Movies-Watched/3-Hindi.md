@@ -128,7 +128,7 @@
     ➤ Hungama (8/10)
     ➤ 
     
-### SERIES (F = Full, S1 = Season 1):
+### SERIES(F = Full, S1 = Only Season 1 Watched, S1- = Only Season 1 Released & Watched):
     ➤ Aranyak (F) (9/10)
     ➤ Asur (F) (9/10)
     ➤ Delhi Crime (F) (7/10)
