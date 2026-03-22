@@ -131,7 +131,7 @@
 ### SERIES (F = Full, S1 = Season 1):
     ➤ Aranyak (F) (9/10)
     ➤ Asur (F) (9/10)
-    ➤ Delhi Crime (F) (8/10)
+    ➤ Delhi Crime (F) (7/10)
     ➤ Flames (F) (6/10)
     ➤ House of Secrets (F) (5/10)
     ➤ Kaala Paani (F) (7/10)
@@ -139,8 +139,8 @@
     ➤ Little Things (S1) (2/10)
     ➤ Mumbai Diaries (F) (4/10)
     ➤ Sacred Games (F) (6/10)
-    ➤ Scam 1992 (F) (8/10)
-    ➤ The Ba***ds of Bollywood (S1-   (8/10)
+    ➤ Scam 1992 (F) (7.5/10)
+    ➤ The Ba***ds of Bollywood (S1-   (7/10)
     ➤ The Family Man (S3-   (7/10)
-    ➤ The Railway Men (F) (8/10)
+    ➤ The Railway Men (F) (7/10)
     ➤
