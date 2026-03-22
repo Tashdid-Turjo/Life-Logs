@@ -135,7 +135,7 @@
     ➤ Flames (F) (6/10)
     ➤ House of Secrets (F) (5/10)
     ➤ Kaala Paani (F) (7/10)
-    ➤ Kota Factory (S1Ep3) (8/10)
+    ➤ Kota Factory (F) (7/10)
     ➤ Little Things (S1) (2/10)
     ➤ Mumbai Diaries (F) (4/10)
     ➤ Sacred Games (F) (6/10)
