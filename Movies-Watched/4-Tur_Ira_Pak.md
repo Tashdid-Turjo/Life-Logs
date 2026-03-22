@@ -17,7 +17,7 @@
     ➤ Miracle In Cell No. 7 (9/10)
     ➤ 
     
-### SERIES (F = Full, S1 = Season 1):
+### SERIES(F = Full, S1 = Only Season 1 Watched, S1- = Only Season 1 Released & Watched):
     ➤ Aşk Laftan Anlamaz (F) (8/10)
     ➤ Kabhi Main Kabhi Tum (F) (8/10)
     ➤ Kurulus Osman (S1Ep12) (5/10)
