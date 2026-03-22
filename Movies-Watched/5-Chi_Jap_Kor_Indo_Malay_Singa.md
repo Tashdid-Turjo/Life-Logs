@@ -59,7 +59,7 @@
     ➤ Summer Time Rendering (9/10)
     ➤ 
     
-### SERIES (F = Full, S1 = Season 1):
+### SERIES(F = Full, S1 = Only Season 1 Watched, S1- = Only Season 1 Released & Watched):
     ➤ 2521 (S1) (3/10)
     ➤ A Killer Paradox (F) (7/10)
     ➤ Alchemy of Souls (F) (9.5/10)
