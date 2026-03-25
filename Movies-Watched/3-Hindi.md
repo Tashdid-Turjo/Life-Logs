@@ -130,6 +130,7 @@
     
 ### SERIES(F = Full, S1 = Only Season 1 Watched, S1- = Only Season 1 Released & Watched):
     ➤ Aranyak (F) (9/10)
+    ➤ Aspirants (F) (7/10)
     ➤ Asur (F) (9/10)
     ➤ Delhi Crime (F) (7/10)
     ➤ Flames (F) (6/10)
