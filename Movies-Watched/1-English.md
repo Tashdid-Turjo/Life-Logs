@@ -407,6 +407,7 @@
     ➤ The Wire (S1) (4/10)
     ➤ The Witcher (S1) (6/10)
     ➤ The Vampire Diaries (F) (8.5/10)
+    ➤ True Detective (S1) (8/10)
     ➤ Unbelievable (F) (7.5/10)
     ➤ Vikings (F) (9/10)
     ➤ Vikings: Valhalla (F) (8/10)
