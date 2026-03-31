@@ -2,6 +2,7 @@
     
 ### HORROR:
     ➤ Bayi Ajaib (7/10)
+    ➤ Curse of the Seven Oceans / Santet Segoro Pitu (8/10)
     ➤ Hidayah (7/10)
     ➤ Ikut Aku Ke Neraka (8/10)
     ➤ Incantation (2/10)
