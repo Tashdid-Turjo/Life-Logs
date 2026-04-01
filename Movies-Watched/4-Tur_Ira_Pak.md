@@ -1,15 +1,15 @@
 ## Turkey(Turkish), Iran(Persian), Pakistan(Urdu):
     
 ### HORROR:
-    ➤ Alamet-i Kiyamet (2/10)
+    ➤ Alamet-i Kiyamet / Signs of the Apocalypse (2/10)
     ➤ Baskin (7/10)
     ➤ Beddua: The Curse (8/10)
-    ➤ Cin-i-Ayet (4/10)
+    ➤ Cin-i-Ayet / Jinn of the Verse (4/10)
     ➤ Dabbe (1-6) (9/10)
-    ➤ Haile 2 (4/10)
+    ➤ Haile 2 / Haile II: Is There or Isn't There? / Haile II: Is There or Isn't There? (4/10)
     ➤ Huddam (All) (8/10)
     ➤ Siccin (1-8) (8/10)
-    ➤ üç harfliler: marid (8/10)
+    ➤ üç harfliler: Marid / The Three-Lettered Ones: Marid (8/10)
     ➤ 
     
 ### DRAMA:
