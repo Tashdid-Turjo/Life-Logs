@@ -1,16 +1,16 @@
 ## China(Mandarin), Japan(Japanese), S.Korea(Korean), Indonesia(Indonesian), Malaysia(Malay), Singapore(Malay):
     
 ### HORROR:
-    ➤ Bayi Ajaib (7/10)
+    ➤ Bayi Ajaib / Miracle Baby (7/10)
     ➤ Curse of the Seven Oceans / Santet Segoro Pitu (8/10)
     ➤ Hidayah (7/10)
-    ➤ Ikut Aku Ke Neraka (8/10)
+    ➤ Ikut Aku Ke Neraka / Follow Me to Hell (8/10)
     ➤ Incantation (2/10)
-    ➤ Janji Darah (7/10)
+    ➤ Janji Darah / Blood Promise (7/10)
     ➤ Kafir (7/10)
     ➤ Khanzab (6/10)
     ➤ The Book Of Sijjin And Illiyyin / Kitab Sijjin & Illiyyin (8/10)
-    ➤ The Third Eye (8/10)
+    ➤ The Third Eye / Mata Batin (8/10)
     ➤ Makmum: The Movie (7/10)
     ➤ Menjelang Ajal (8/10)
     ➤ Munafiq (8/10)
@@ -18,7 +18,7 @@
     ➤ Qodrat (8/10)
     ➤ Satan's Slaves / Pengabdi Setan (1, 2) (7/10), (2/10)
     ➤ Sijjin (2023) (7/10) [copy of siccin]
-    ➤ Siksa Neraka (7/10) [about afterlife]
+    ➤ Siksa Neraka / Hell's Torture (7/10) [about afterlife]
     ➤ The Grudge (7/10)
     ➤ Umma (4/10)
     ➤ Waktu Maghrib (1, 2) (8/10), (4/10)
