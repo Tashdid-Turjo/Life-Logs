@@ -264,6 +264,7 @@
     ➤ Annabelle (All) (8/10)
     ➤ A Quiet Place (1,2) (5/10)
     ➤ Cult of Chucky (All) (6/10)
+    ➤ Evil Dead Rise (2023) (8/10)
     ➤ Immaculate (6/10)
     ➤ Insidious (7/10)
     ➤ IT (6/10)
