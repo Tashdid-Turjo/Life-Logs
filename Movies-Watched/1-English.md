@@ -342,7 +342,7 @@
     ➤ Victor Frankenstein (5/10)
     ➤ 
     
-### SCI-FI/+ACTION:
+### SCI-FI+ACTION/SCI-FI:
     ➤ 10 Cloverfield Lane (5/10)
     ➤ Avatar (8/10)
     ➤ Blade Runner 2049 (7/10)
