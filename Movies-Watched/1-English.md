@@ -183,7 +183,7 @@
     ➤ XXX: Return of Xander Cage(6/10)
     ➤ 
     
-### DRAMA/SPORT:
+### DRAMA/SPORT/MUSICAL:
     ➤ 12 Years a Slave (6/10)
     ➤ A Man Called Otto (9/10)
     ➤ Atonement (4/10)
@@ -200,6 +200,7 @@
     ➤ Goal The Dream Begins (All)(8/10)
     ➤ Life of Pi (8/10)
     ➤ Lincoln (7/10)
+    ➤ Michael (9/10)
     ➤ Minari (3/10)
     ➤ Noah (Nuh A.) (8/10)
     ➤ Runway 34 (8/10)
