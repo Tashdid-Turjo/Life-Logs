@@ -16,7 +16,7 @@
     ➤ Chaplin (4/10)
     ➤ Cheeni (5/10)
     ➤ Chokkor (8/10)
-    ➤ Chokro (6/10)
+    ➤ Chokro (S1- (6/10)
     ➤ Chotushkon (5/10)
     ➤ Contract (8/10)
     ➤ Daagi (7/10)
