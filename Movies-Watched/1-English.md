@@ -369,7 +369,7 @@
     ➤ Black Mirror (S1) (5/10)
     ➤ Breaking Bad (F) (8/10)
     ➤ Chernobyl (F) (8/10)
-    ➤ Daredevil (S2- (6/10)
+    ➤ Daredevil (F) (6/10)
     ➤ Dark (F) (8/10)
     ➤ Elite (S4) (7/10)
     ➤ Friends (S1) (6/10)
