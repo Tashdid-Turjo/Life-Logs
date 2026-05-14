@@ -42,6 +42,7 @@
     ➤ Hacked (0/10)
     ➤ Jab We Met (3/10)
     ➤ Jalebi (0/10)
+    ➤ Jaane Tu... Ya Jaane Na (8/10)
     ➤ Jism-2 (0/10)
     ➤ Jodhaa Akbar (6/10)
     ➤ Kho Gaye Hum Kahan (0/10)
