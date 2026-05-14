@@ -40,7 +40,7 @@
     ➤ Ghajini (8/10)
     ➤ Ginny Weds Sunny (0/10)
     ➤ Hacked (0/10)
-    ➤ Jaane Tu... Ya Jaane Na (8/10)
+    ➤ Jaane Tu... Ya Jaane Na (7/10)
     ➤ Jab We Met (3/10)
     ➤ Jalebi (0/10)
     ➤ Jism-2 (0/10)
