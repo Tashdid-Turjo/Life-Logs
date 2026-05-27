@@ -26,6 +26,7 @@
     ➤ Debi (8/10)
     ➤ Deyaler Desh (2/10)
     ➤ Dohon (7/10)
+    ➤ Domm (2026) (6.5/10)
     ➤ Gumnaami (4/10)
     ➤ Hawa (8/10)
     ➤ Hemlock Society (4/10)
