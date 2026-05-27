@@ -46,6 +46,7 @@
     ➤ Operation Sundarban (2/10)
     ➤ Pett Kata Shaw (1, 2) (8/10)
     ➤ Prakton (8/10)
+    ➤ Prince: Once Upon a Time in Dhaka (2026) (5/10)
     ➤ Priyotoma (2/10)
     ➤ Poramon 2 (8/10)
     ➤ Parineeta (7/10)
