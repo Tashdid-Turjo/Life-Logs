@@ -51,6 +51,7 @@
     ➤ Parineeta (7/10)
     ➤ Punorjonmo (Natok) (8/10)
     ➤ Rajkahini (4/10)
+    ➤ Rakkhosh (2026) (5/10)
     ➤ Reddrum (7/10)
     ➤ Rehana Maryam Noor (3/10)
     ➤ Robindronath Ekhane Kawkhono Khete Aashenni (8/10)
