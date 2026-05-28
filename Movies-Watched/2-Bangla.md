@@ -12,6 +12,7 @@
     ➤ Baishe Srabon, Dwitiyo Purush (9/10)
     ➤ Bela Seshe (9/10)
     ➤ Bohemian Ghora (2/10)
+    ➤ Bonolota Express (2026) (9/10)
     ➤ Borbaad (6/10)
     ➤ Chaplin (4/10)
     ➤ Cheeni (5/10)
