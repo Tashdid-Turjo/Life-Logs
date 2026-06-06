@@ -396,7 +396,7 @@
     ➤ Shameless (S3) (7/10)
     ➤ Sherlock (F) (9/10)
     ➤ Stranger Things (F) (10/10) ✪
-    ➤ The Boys (S4-   (9/10)
+    ➤ The Boys (F) (9/10)
     ➤ The Continental: From the World of John Wick (F) (7/10)
     ➤ The End of The Fucking World (F) (6/10)
     ➤ The Falcon & the Winter Soldier (S1) (6/10)
