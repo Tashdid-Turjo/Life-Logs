@@ -347,6 +347,7 @@
     ➤ 10 Cloverfield Lane (5/10)
     ➤ Avatar (8/10)
     ➤ Blade Runner 2049 (7/10)
+    ➤ Frankenstein (2025) (7/10)
     ➤ The Adam Project (8/10)
     ➤ The Platform (6/10)
     ➤ Total Recall (7/10)
