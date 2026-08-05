@@ -236,6 +236,7 @@
     ➤ Nightcrawler (8/10)
     ➤ No Country For Old Man (6/10)
     ➤ Nocturnal Animals (5/10)
+    ➤ Obsession (2026) (7/10)
     ➤ Orphan (All) (8/10)
     ➤ Parasite (3/10)
     ➤ Predestination (8/10)
