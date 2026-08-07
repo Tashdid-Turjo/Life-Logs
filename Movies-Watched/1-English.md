@@ -221,6 +221,7 @@
     ➤ Don't Breathe (All) (9/10)
     ➤ Enola Holmes (All) (8/	10)
     ➤ Escape Room (8/10)
+    ➤ Fall(2022) (7/10)
     ➤ Fight Club (8/10)
     ➤ Final Destination (All) (8/10)
     ➤ Gone Girl (8/10)
