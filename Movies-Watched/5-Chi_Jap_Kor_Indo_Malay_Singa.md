@@ -19,6 +19,7 @@
     ➤ Satan's Slaves / Pengabdi Setan (1, 2) (7/10), (2/10)
     ➤ Sijjin (2023) (7/10) [copy of siccin]
     ➤ Siksa Neraka / Hell's Torture (7/10) [about afterlife]
+    ➤ Tenung by Risa Saraswati & Dimasta (2025) (7/10)
     ➤ The Grudge (7/10)
     ➤ Umma (4/10)
     ➤ Waktu Maghrib (1, 2) (8/10), (4/10)
