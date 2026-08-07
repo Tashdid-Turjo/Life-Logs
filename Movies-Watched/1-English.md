@@ -214,6 +214,7 @@
     ➤ 
     
 ### THRILLER(রোমাঞ্চকর/গোয়েন্দা-কাহিনী)/SUSPENSE THRILLER/PSYCHOLOGICAL/SURVIVAL THRILLER/MYSTERIOUS(রহস্য)/ANTHOLOGY(সংকলন)/CRIME/EROTIC CRIME:
+    ➤ 127 Hours (2010) (8/10)
     ➤ A Most Violent Year (6/10)
     ➤ A Nightmare On Elm Street (7/10)
     ➤ A Perfect Murder (5/10)
@@ -221,7 +222,7 @@
     ➤ Don't Breathe (All) (9/10)
     ➤ Enola Holmes (All) (8/	10)
     ➤ Escape Room (8/10)
-    ➤ Fall(2022) (7/10)
+    ➤ Fall (2022) (7/10)
     ➤ Fight Club (8/10)
     ➤ Final Destination (All) (8/10)
     ➤ Gone Girl (8/10)
@@ -251,7 +252,7 @@
     ➤ The Body (8/10)
     ➤ The Covenant (7/10)
     ➤ The Departed (8/10)
-    ➤ The Girl with the Dragon Tattoo(8/10)
+    ➤ The Girl with the Dragon Tattoo (8/10)
     ➤ The Housemaid (8/10)
     ➤ The Machinist (8/10)
     ➤ The Post (4/10)
@@ -267,7 +268,7 @@
     ➤ Annabelle (All) (8/10)
     ➤ A Quiet Place (1,2) (5/10)
     ➤ Cult of Chucky (All) (6/10)
-    ➤ Evil Dead(2013), Evil Dead Rise(2023), Evil Dead Burn(2026) (8/10)
+    ➤ Evil Dead (2013), Evil Dead Rise (2023), Evil Dead Burn (2026) (8/10)
     ➤ Immaculate (6/10)
     ➤ Insidious (7/10)
     ➤ IT (6/10)
@@ -284,7 +285,7 @@
     ➤ The Night House (5/10)
     ➤ The Nun (7/10)
     ➤ The Orphanage (6/10)
-    ➤ The Possession of Hannah Grace(8/10)
+    ➤ The Possession of Hannah Grace (8/10)
     ➤ The Ring (All) (9/10)
     ➤ The Unholy (5/10)
     ➤ The Wailing (4/10)
