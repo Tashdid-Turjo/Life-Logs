@@ -23,6 +23,7 @@
     
 ### COMEDY:
     ➤ 3 Idiots (9/10)
+    ➤ Hungama (8/10)
     ➤ 
     
 ### COMEDY HORROR:
@@ -123,10 +124,6 @@
     ➤ Ragini MMS (all) (6/10)
     ➤ The House Next Door (9/10)
     ➤ 1920 (All) (8/10)
-    ➤ 
-
-### COMEDY:
-    ➤ Hungama (8/10)
     ➤ 
     
 ### SERIES(F = Full, S1 = Only Season 1 Watched, S1- = Only Season 1 Released & Watched):
