@@ -52,7 +52,7 @@
 ### MARVEL/AVENGERS/ACTION:
     ➤ Antman:
      ➤ Ant-Man (2015) (9/10)
-     ➤ Ant-Man and the Wasp (2018) (8/10)
+     ➤ Ant-Man and the Wasp (2018) (9/10)
     ➤ Avengers (All) (9/10)
     ➤ Captain America (All) (7/10)
     ➤ Deadpool (All) (7/10)
