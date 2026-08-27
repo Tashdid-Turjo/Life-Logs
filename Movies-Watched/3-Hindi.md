@@ -17,6 +17,7 @@
     ➤ Sooryavanshi (4/10)
     ➤ Tarzan The Wonder Car (7/10)
     ➤ Thugs of Hindostan (7/10)
+    ➤ Toxic (2026) (6/10)
     ➤ Uri: The Surgical Strike (0/10)
     ➤ War (6/10)
     ➤ 
