@@ -49,26 +49,77 @@
     ➤ We're the Millers (4/10)
     ➤ 
     
-### MARVEL/AVENGERS/ACTION:
+### MARVEL/AVENGERS/ACTION/Movie, Anime, Series:
     ➤ Antman:
       ➤ Ant-Man (2015) (9/10)
       ➤ Ant-Man and the Wasp (2018) (8.5/10)
       ➤ Ant-Man and the Wasp: Quantumania (2023) (8/10)
-    ➤ Avengers (All) (9/10)
-    ➤ Captain America (All) (7/10)
-    ➤ Deadpool (All) (7/10)
-    ➤ Deadpool & Wolverine (8/10)
-    ➤ Doctor Strange (All) (7/10)
-    ➤ Guardians of the Galaxy (6/10)
-    ➤ Ironman (All) (8/10)
-    ➤ Logan + Xmen (All) (7/10)
-    ➤ Shang-Chi and The Legend of The Ten Rings (8/10)
-    ➤ Spiderman (All) (9/10)
-    ➤ Thor (All) (8/10)
-    ➤ Venom (1-3) (8/10)
-    ➤ 
+    ➤ Black Panter:
+      ➤ Black Panther (2018) (7/10)
+    ➤ Captain America:
+      ➤ Captain America: The First Avenger (2011) (7/10)
+      ➤ Captain America: The Winter Soldier (2014) (7/10)
+      ➤ Captain America: Civil War (2016) (7/10)
+    ➤ Captain Marvel:
+      ➤ Captain Marvel (2019) (7/10)
+    ➤ Daredevil:
+      ➤ Daredevil (2015-2018) (F) (6/10)    
+    ➤ Deadpool:
+      ➤ Deadpool (2016) (7/10)
+    ➤ Doctor Strange:
+      ➤ Doctor Strange (2016) (7/10)
+      ➤ Doctor Strange in the Multiverse of Madness (2022) (7/10)
+    ➤ Guardians of the Galaxy:
+      ➤ Guardians of the Galaxy (2014) (6/10)
+      ➤ Guardians of the Galaxy Vol. 2 (2017) (6/10)
+    ➤ Iron Man:
+      ➤ Iron Man (2008) (8/10)
+      ➤ Iron Man 2 (2010) (8/10)
+      ➤ Iron Man 3 (2013) (8/10)
+    ➤ Shang-Chi:
+      ➤ Shang-Chi and the Legend of the Ten Rings (2021) (8/10)    
+    ➤ Spider-Man:
+      ➤ Spider-Man (2002) (/10)
+      ➤ Spider-Man 2 (2004) (/10)
+      ➤ Spider-Man 3 (2007) (/10)
+      ➤ The Spectacular Spider-Man (Season 1) (2008) (/10)
+      ➤ The Spectacular Spider-Man (Season 2) (2009) (/10)
+      ➤ The Amazing Spider-Man (2012) (/10)
+      ➤ The Amazing Spider-Man 2 (2014) (/10)
+      ➤ Spider-Man: Homecoming (2017) (/10)
+      ➤ Spider-Man: Into the Spider-Verse (2018) (/10)
+      ➤ Spider-Man: Far From Home (2019) (/10)
+      ➤ Spider-Man: No Way Home (2021) (/10)
+      ➤ Spider-Man: Across the Spider-Verse (2023) (/10)
+      ➤ Spider-Man: Brand New Day (2026) (/10)      
+    ➤ Thor:
+      ➤ Thor (2011) (8/10)
+      ➤ Thor: The Dark World (2013) (8/10)
+      ➤ Thor: Ragnarok (2017) (8/10)    
+    ➤ Venom:
+      ➤ Venom (2018) (8/10)
+      ➤ Venom: Let There Be Carnage (2021) (8/10)
+      ➤ Venom: The Last Dance (2024) (8/10)
+    ➤ X-Men & Mutants:
+      ➤ X-Men (2000) (7/10)
+      ➤ X2 (2003) (7/10)
+      ➤ X-Men: The Last Stand (2006) (7/10)
+      ➤ Wolverine and the X-Men (2008) (7/10)
+      ➤ X-Men Origins: Wolverine (2009) (7/10)
+      ➤ X-Men: First Class (2011) (7/10)
+      ➤ The Wolverine (2013) (7/10)
+      ➤ X-Men: Days of Future Past (2014) (7/10)
+      ➤ X-Men: Apocalypse (2016) (7/10)
+      ➤ Logan (2017) (7/10)
+      ➤ The New Mutants (2020) (7/10)
+    ➤ Avengers Ensembles/Marvel:
+      ➤ The Avengers (2012) (9/10)
+      ➤ Avengers: Age of Ultron (2015) (9/10)
+      ➤ Avengers: Infinity War (2018) (9/10)
+      ➤ Avengers: Endgame (2019) (9/10)
+      ➤ Deadpool & Wolverine (2024) (8/10)
     
-### DC/JUSTICE LEAGUE/ACTION:
+### DC/JUSTICE LEAGUE/ACTION/Movie, Anime, Series:
     ➤ Batman:
       ➤ Batman Begins (2005) (9/10)
       ➤ The Dark Knight (2008) (9/10)
@@ -393,7 +444,6 @@
     ➤ Black Mirror (S1) (5/10)
     ➤ Breaking Bad (F) (8/10)
     ➤ Chernobyl (F) (8/10)
-    ➤ Daredevil (F) (6/10)
     ➤ Dark (F) (8/10)
     ➤ Elite (S4) (7/10)
     ➤ Friends (S1) (6/10)
