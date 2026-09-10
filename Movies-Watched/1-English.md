@@ -51,9 +51,9 @@
     
 ### MARVEL/AVENGERS/ACTION:
     ➤ Antman:
-     ➤ Ant-Man (2015) (9/10)
-     ➤ Ant-Man and the Wasp (2018) (8.5/10)
-     ➤ Ant-Man and the Wasp: Quantumania (2023) (8/10)
+      ➤ Ant-Man (2015) (9/10)
+      ➤ Ant-Man and the Wasp (2018) (8.5/10)
+      ➤ Ant-Man and the Wasp: Quantumania (2023) (8/10)
     ➤ Avengers (All) (9/10)
     ➤ Captain America (All) (7/10)
     ➤ Deadpool (All) (7/10)
@@ -69,12 +69,25 @@
     ➤ 
     
 ### DC/ACTION:
-    ➤ Black Adam (8/10)
-    ➤ The Batman (All) (9/10)
-    ➤ Joker (7/10)
-    ➤ Justice League (7/10)
-    ➤ Superman (All) (7/10)
-    ➤ 
+    ➤ Batman:
+      ➤ Batman Begins (2005) (9/10)
+      ➤ The Dark Knight (2008) (9/10)
+      ➤ The Dark Knight Rises (2012) (9/10)
+      ➤ The Batman (2022) (8.5/10)
+    ➤ Black Adam:
+      ➤ Black Adam (2022) (7/10)
+    ➤ Joker:
+      ➤ Joker (2019) (7/10)
+    ➤ Suicide Squad:
+      ➤ Suicide Squad (2016) (7/10)
+      ➤ The Suicide Squad (2021) (7/10)    
+    ➤ Superman:
+      ➤ Superman Returns (2006) (7/10)
+      ➤ Man of Steel (2013) (7/10)
+      ➤ Superman (2025) (7/10)
+    ➤ DC Ensembles/Justice League:
+      ➤ Batman v Superman: Dawn of Justice (2016) (8/10)
+      ➤ Zack Snyder's Justice League (2021) (7/10)
     
 ### ACTION (WITH KING or RULER/HISTORICAL RELATED):
     ➤ (All) Greek, Egyptian Mythology (7/10)
@@ -156,7 +169,6 @@
     ➤ Shoot Em Up (7/10)
     ➤ Skyscraper (2018) (6/10)
     ➤ Speed (7/10)
-    ➤ Suicide Squad (All) (7/10)
     ➤ Taken (All) (8/10)
     ➤ Tenet (8/10)
     ➤ Terminator (All) (9/10)
