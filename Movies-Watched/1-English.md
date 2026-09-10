@@ -99,7 +99,7 @@
       ➤ Venom (2018) (8/10)
       ➤ Venom: Let There Be Carnage (2021) (8/10)
       ➤ Venom: The Last Dance (2024) (8/10)
-    ➤ X-Men & Mutants:
+    ➤ X-Men & Mutants/Wolverine:
       ➤ X-Men (2000) (7/10)
       ➤ X2 (2003) (7/10)
       ➤ X-Men: The Last Stand (2006) (7/10)
