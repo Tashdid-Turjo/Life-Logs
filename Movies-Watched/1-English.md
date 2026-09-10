@@ -63,7 +63,7 @@
     ➤ Captain Marvel:
       ➤ Captain Marvel (2019) (7/10)
     ➤ Daredevil:
-      ➤ Daredevil (2015-2018) (F) (6/10)    
+      ➤ Daredevil (Series) (2015-2018) (F) (6/10)    
     ➤ Deadpool:
       ➤ Deadpool (2016) (7/10)
     ➤ Doctor Strange:
@@ -79,19 +79,18 @@
     ➤ Shang-Chi:
       ➤ Shang-Chi and the Legend of the Ten Rings (2021) (8/10)    
     ➤ Spider-Man:
-      ➤ Spider-Man (2002) (/10)
-      ➤ Spider-Man 2 (2004) (/10)
-      ➤ Spider-Man 3 (2007) (/10)
-      ➤ The Spectacular Spider-Man (Season 1) (2008) (/10)
-      ➤ The Spectacular Spider-Man (Season 2) (2009) (/10)
-      ➤ The Amazing Spider-Man (2012) (/10)
-      ➤ The Amazing Spider-Man 2 (2014) (/10)
-      ➤ Spider-Man: Homecoming (2017) (/10)
-      ➤ Spider-Man: Into the Spider-Verse (2018) (/10)
-      ➤ Spider-Man: Far From Home (2019) (/10)
-      ➤ Spider-Man: No Way Home (2021) (/10)
-      ➤ Spider-Man: Across the Spider-Verse (2023) (/10)
-      ➤ Spider-Man: Brand New Day (2026) (/10)      
+      ➤ Spider-Man (2002) (9/10)
+      ➤ Spider-Man 2 (2004) (9/10)
+      ➤ Spider-Man 3 (2007) (9/10)
+      ➤ The Spectacular Spider-Man (Series) (2008) (F) (9/10)
+      ➤ The Amazing Spider-Man (2012) (8/10)
+      ➤ The Amazing Spider-Man 2 (2014) (8/10)
+      ➤ Spider-Man: Homecoming (2017) (7/10)
+      ➤ Spider-Man: Into the Spider-Verse (2018) (9/10)
+      ➤ Spider-Man: Far From Home (2019) (7/10)
+      ➤ Spider-Man: No Way Home (2021) (10/10) ✪
+      ➤ Spider-Man: Across the Spider-Verse (2023) (9/10)
+      ➤ Spider-Man: Brand New Day (2026) (7/10)
     ➤ Thor:
       ➤ Thor (2011) (8/10)
       ➤ Thor: The Dark World (2013) (8/10)
@@ -492,6 +491,4 @@
 
 ### ANIME/CARTOON:
     ➤ Batman: The Animated Series (8/10)
-    ➤ Spiderman: Across the spiderverse (All) (9/10)
-    ➤ The Spectacular Spiderman (F) (9/10)
     ➤ 
