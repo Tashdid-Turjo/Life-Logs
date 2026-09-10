@@ -89,6 +89,7 @@
       ➤ Superman (2025) (7/10)
     ➤ DC Ensembles/Justice League:
       ➤ Batman v Superman: Dawn of Justice (2016) (8/10)
+      ➤ Justice League (2017) (7/10)
       ➤ Zack Snyder's Justice League (2021) (7/10)
     
 ### ACTION (WITH KING or RULER/HISTORICAL RELATED):
