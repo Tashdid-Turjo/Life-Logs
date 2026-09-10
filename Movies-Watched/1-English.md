@@ -68,7 +68,7 @@
     ➤ Venom (1-3) (8/10)
     ➤ 
     
-### DC/ACTION:
+### DC/JUSTICE LEAGUE/ACTION:
     ➤ Batman:
       ➤ Batman Begins (2005) (9/10)
       ➤ The Dark Knight (2008) (9/10)
@@ -76,6 +76,8 @@
       ➤ The Batman (2022) (8.5/10)
     ➤ Black Adam:
       ➤ Black Adam (2022) (7/10)
+    ➤ Green Lantern:
+      ➤ Green Lantern (2011) (6/10)
     ➤ Joker:
       ➤ Joker (2019) (7/10)
     ➤ Suicide Squad:
