@@ -120,11 +120,11 @@
     
 ### DC/JUSTICE LEAGUE/ACTION/Movie, Anime, Series:
     ➤ Batman:
+      ➤ Batman: Thw Animated Series (Anime) (1992) (S1Ep18) (8/10)
       ➤ Batman Begins (2005) (9/10)
       ➤ The Dark Knight (2008) (9/10)
       ➤ The Dark Knight Rises (2012) (9/10)
       ➤ The Batman (2022) (8.5/10)
-      ➤ Batman: The Animated Series (Anime) (8/10)
     ➤ Black Adam:
       ➤ Black Adam (2022) (7/10)
     ➤ Green Lantern:
