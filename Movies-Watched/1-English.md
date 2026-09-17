@@ -124,6 +124,7 @@
       ➤ The Dark Knight (2008) (9/10)
       ➤ The Dark Knight Rises (2012) (9/10)
       ➤ The Batman (2022) (8.5/10)
+      ➤ Batman: The Animated Series (Anime) (8/10)
     ➤ Black Adam:
       ➤ Black Adam (2022) (7/10)
     ➤ Green Lantern:
@@ -449,7 +450,7 @@
     ➤ Game of Thrones (F) (10/10) ✪
     ➤ Hannibal (S1) (7/10)
     ➤ Hawkeye (S1) (5/10)
-    ➤ House of The Dragon (S2-   (9/10)
+    ➤ House of The Dragon (S3-   (9/10)
     ➤ IT: Welcome to Derry (S1-   (8/10)
     ➤ Loki (S1) (6/10)
     ➤ Lucifer (S2Ep3) (7/10)
@@ -487,8 +488,4 @@
     ➤ Vikings (F) (9/10)
     ➤ Vikings: Valhalla (F) (8/10)
     ➤ Wednesday (S2-   (8/10)
-    ➤ 
-
-### ANIME/CARTOON:
-    ➤ Batman: The Animated Series (8/10)
     ➤ 
