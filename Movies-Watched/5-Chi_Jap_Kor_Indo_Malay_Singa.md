@@ -92,6 +92,7 @@
     ➤ Squid Game (F) (9/10)
     ➤ Strangers From Hell (F) (1/10)
     ➤ Twinkling Watermelon (F) (4/10)
+    ➤ We Are All Trying Here (F) (5/10)
     ➤ When Life Gives You Tangerines (F) (8/10)
     ➤ 
     
