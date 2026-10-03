@@ -63,6 +63,7 @@
     ➤ Captain Marvel:
       ➤ Captain Marvel (2019) (7/10)
     ➤ Daredevil:
+      ➤ Daredevil (2003) (8/10)
       ➤ Daredevil (Series) (2015-2018) (F) (6/10)    
     ➤ Deadpool:
       ➤ Deadpool (2016) (7/10)
