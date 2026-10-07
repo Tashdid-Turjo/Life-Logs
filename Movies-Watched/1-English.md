@@ -72,6 +72,8 @@
       ➤ Doctor Strange in the Multiverse of Madness (2022) (7/10)
     ➤ Elektra:
       ➤ Elektra (2005) (5/10)
+    ➤ Fantastic Four:
+      ➤ Fantastic Four (2005) (7/10)
     ➤ Guardians of the Galaxy:
       ➤ Guardians of the Galaxy (2014) (6/10)
       ➤ Guardians of the Galaxy Vol. 2 (2017) (6/10)
